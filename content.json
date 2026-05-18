@@ -1,0 +1,104 @@
+{
+  "date": "2026-05-18",
+  "sections": {
+    "technology": {
+      "articles": [
+        {
+          "headline": "Google DeepMind Unveils Gemini Ultra 2 with Real-Time Reasoning",
+          "summary": "Google's latest flagship model demonstrates near-human performance on complex multi-step reasoning benchmarks, with new capabilities in live video understanding and agentic task execution.",
+          "source": "The Verge"
+        },
+        {
+          "headline": "AMD Launches Ryzen 9000 Series with 3D V-Cache for AI Workloads",
+          "summary": "AMD's newest desktop processors feature a redesigned cache architecture optimised for local AI inference, delivering 2× throughput improvement over the previous generation at the same TDP.",
+          "source": "AnandTech"
+        },
+        {
+          "headline": "Microsoft Copilot Now Embedded Across All Windows 11 System Apps",
+          "summary": "The latest Windows 11 update brings Copilot deep into File Explorer, Settings, and Taskbar — allowing users to ask questions, rename files in bulk, and summarise notifications using natural language.",
+          "source": "Windows Central"
+        }
+      ]
+    },
+    "finance": {
+      "articles": [
+        {
+          "headline": "S&P 500 Edges Toward Record High as Inflation Data Cools",
+          "summary": "Markets rallied broadly after April's CPI reading came in at 2.8%, below analyst expectations, sparking optimism around a potential Fed rate cut in September 2026.",
+          "source": "Bloomberg"
+        },
+        {
+          "headline": "NVIDIA Market Cap Surpasses $4 Trillion for First Time",
+          "summary": "Driven by surging data-centre demand for its Blackwell GPU architecture, NVIDIA became the second company in history to exceed a $4 trillion valuation, briefly overtaking Apple.",
+          "source": "Reuters"
+        },
+        {
+          "headline": "Singapore's DBS Reports Record Q1 Profit, Eyes SE Asia Expansion",
+          "summary": "DBS Group posted a net profit of SGD 3.1 billion in Q1 2026, up 18% year-on-year, citing strong wealth management flows and rising net interest margins across its ASEAN operations.",
+          "source": "Straits Times"
+        }
+      ]
+    },
+    "innovations": {
+      "articles": [
+        {
+          "headline": "Boston Dynamics' Atlas Now Handles Unstructured Warehouse Tasks Autonomously",
+          "summary": "The latest Atlas firmware update enables the humanoid robot to navigate cluttered environments, pick irregular items, and collaborate with human workers without pre-programmed routes.",
+          "source": "IEEE Spectrum"
+        },
+        {
+          "headline": "Consumer Desktop Metal 3D Printer Achieves Sub-$1,000 Price Point",
+          "summary": "A new metal FDM printer from Desktop Metal's consumer division brings stainless steel and aluminium printing to home workshops, using a new sintering process that requires no kiln.",
+          "source": "Hackaday"
+        },
+        {
+          "headline": "Smart Home Hub Integrates AI Vision to Cut Standby Energy Use by 40%",
+          "summary": "The new Matter 2.0-compatible hub uses an on-device vision model to detect room occupancy and automatically manage lighting, HVAC and plugged devices — without any cloud dependency.",
+          "source": "Ars Technica"
+        }
+      ]
+    },
+    "trends": {
+      "articles": [
+        {
+          "headline": "Short-Form Video Commerce Surpasses $300B in Global Sales for 2026",
+          "summary": "TikTok Shop and Instagram Checkout collectively drove over $300 billion in direct-to-consumer sales in the first four months of 2026, reshaping retail strategy for brands of all sizes.",
+          "source": "Insider Intelligence"
+        },
+        {
+          "headline": "The 'Solo Founder' Wave: AI Tools Make One-Person Startups Viable at Scale",
+          "summary": "A new cohort of $1M+ ARR businesses founded and run entirely by a single person is growing rapidly, enabled by AI coding, marketing, and CRM tools that eliminate the need for early hires.",
+          "source": "Hacker News"
+        },
+        {
+          "headline": "B2B Brands Pivot to Creator-Led Marketing as Ad ROI Declines",
+          "summary": "Enterprise software companies including SAP, Salesforce, and HubSpot are shifting budget to LinkedIn and YouTube creators, citing 3–5× better cost-per-lead versus traditional display advertising.",
+          "source": "Marketing Week"
+        }
+      ]
+    },
+    "saas": {
+      "articles": [
+        {
+          "headline": "Salesforce Agentforce 3.0 Lets Companies Deploy Autonomous Sales Agents in Hours",
+          "summary": "The latest Agentforce release includes pre-built templates for outbound SDR, renewal management, and customer success, with native CRM data grounding that eliminates hallucination risk.",
+          "source": "TechCrunch"
+        },
+        {
+          "headline": "AWS Launches 'Bedrock Autopilot' — Auto-Selects the Best Model Per Task",
+          "summary": "Amazon's new Bedrock feature dynamically routes prompts to the optimal foundation model based on task type, latency budget, and cost target — potentially cutting cloud AI bills by 35%.",
+          "source": "AWS Blog"
+        },
+        {
+          "headline": "SAP Integrates Joule AI Copilot Into All Core ERP Modules by Default",
+          "summary": "SAP's AI assistant Joule is now embedded across Finance, Supply Chain, and HR modules in S/4HANA Cloud, enabling natural-language queries, anomaly alerts, and auto-drafted journal entries.",
+          "source": "SAP News"
+        }
+      ]
+    },
+    "random_fact": {
+      "fact": "The world's first programmable electronic computer, ENIAC, weighed 27 tonnes, consumed 150 kilowatts of power, and could perform 5,000 additions per second. A modern smartphone chip executes over 15 billion operations per second — roughly 3 million times faster, in a package the size of a thumbnail.",
+      "category": "Technology History"
+    }
+  }
+}
