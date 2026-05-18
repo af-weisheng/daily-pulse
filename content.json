@@ -4,101 +4,116 @@
     "technology": {
       "articles": [
         {
-          "headline": "Google DeepMind Unveils Gemini Ultra 2 with Real-Time Reasoning",
-          "summary": "Google's latest flagship model demonstrates near-human performance on complex multi-step reasoning benchmarks, with new capabilities in live video understanding and agentic task execution.",
-          "source": "The Verge"
+          "headline": "Anthropic Releases Claude 4 with Native Video Understanding",
+          "summary": "Anthropic has launched Claude 4, its flagship model featuring native video comprehension, a 200K default context window, and substantially improved tool-use accuracy across multi-step agentic workflows. The model processes video frames natively without transcription middlemen, enabling real-time analysis of live recordings and product demos. Anthropic reports a 40% reduction in hallucination rates on structured reasoning tasks compared with Claude 3.5 Sonnet. The release directly contests GPT-5 in enterprise benchmarks and is available immediately on claude.ai and via API.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com"
         },
         {
-          "headline": "AMD Launches Ryzen 9000 Series with 3D V-Cache for AI Workloads",
-          "summary": "AMD's newest desktop processors feature a redesigned cache architecture optimised for local AI inference, delivering 2× throughput improvement over the previous generation at the same TDP.",
-          "source": "AnandTech"
+          "headline": "Apple M5 Pro Chip Enters Mass Production Ahead of WWDC",
+          "summary": "Supply-chain sources confirm Apple's M5 Pro is in mass production at TSMC's 2nm facility, with a public debut expected at WWDC in June. The chip delivers a 30% uplift in neural-engine throughput for on-device AI inference, reaching 45 TOPS -- enough to run mid-size language models entirely offline. Fabricated on TSMC's N2 process node, the M5 Pro is expected to power the next MacBook Pro and Mac Studio lineup. Analysts project Apple will ship over 12 million M5 devices by year-end.",
+          "source": "MacRumors",
+          "url": "https://macrumors.com"
         },
         {
-          "headline": "Microsoft Copilot Now Embedded Across All Windows 11 System Apps",
-          "summary": "The latest Windows 11 update brings Copilot deep into File Explorer, Settings, and Taskbar — allowing users to ask questions, rename files in bulk, and summarise notifications using natural language.",
-          "source": "Windows Central"
+          "headline": "Meta AI Studio Enables Branded AI Personas on WhatsApp Business",
+          "summary": "Meta has opened AI Studio globally to all WhatsApp Business accounts, allowing brands to deploy custom-personality AI assistants that handle customer queries, product lookups, and order tracking natively in chat. The tool supports persona customisation without requiring any coding, using Meta's Llama 4 model under the hood. Early enterprise adopters report a 65% reduction in first-contact resolution time compared with legacy chatbot deployments. The feature is free for businesses on the standard WhatsApp Business API plan with up to 1,000 conversations per month included.",
+          "source": "The Verge",
+          "url": "https://theverge.com"
         }
       ]
     },
     "finance": {
       "articles": [
         {
-          "headline": "S&P 500 Edges Toward Record High as Inflation Data Cools",
-          "summary": "Markets rallied broadly after April's CPI reading came in at 2.8%, below analyst expectations, sparking optimism around a potential Fed rate cut in September 2026.",
-          "source": "Bloomberg"
+          "headline": "US 10-Year Treasury Yield Climbs to 4.8% on Jobs Surprise",
+          "summary": "The benchmark 10-year US Treasury yield rose 12 basis points to 4.8% after April's non-farm payrolls beat consensus by 85,000 jobs, sharply lowering the probability of a June Fed rate cut. Markets are now pricing just one cut in late 2026, down from three cuts projected in January. The dollar index climbed 0.6% in response, putting pressure on emerging market currencies and commodities priced in USD. FOMC minutes due Wednesday are expected to clarify the committee's tolerance for persistent core services inflation, which remains above 3.5%.",
+          "source": "Bloomberg",
+          "url": "https://bloomberg.com"
         },
         {
-          "headline": "NVIDIA Market Cap Surpasses $4 Trillion for First Time",
-          "summary": "Driven by surging data-centre demand for its Blackwell GPU architecture, NVIDIA became the second company in history to exceed a $4 trillion valuation, briefly overtaking Apple.",
-          "source": "Reuters"
+          "headline": "Bitcoin Breaks $150,000 Milestone on Record Spot ETF Inflows",
+          "summary": "Bitcoin surpassed $150,000 for the first time, driven by $3.2 billion in weekly inflows into US-listed spot ETFs -- the largest single-week figure since their January 2024 launch -- led by BlackRock's iShares Bitcoin Trust. The breakout came alongside a broader risk-on shift as the S&P 500 also hit all-time highs. Analysts attribute the move to accelerating corporate treasury diversification and growing allocation from sovereign wealth funds in the Gulf region. Bitcoin's market capitalisation briefly exceeded $3 trillion, surpassing silver and approaching gold's dominance in store-of-value narratives.",
+          "source": "CoinDesk",
+          "url": "https://coindesk.com"
         },
         {
-          "headline": "Singapore's DBS Reports Record Q1 Profit, Eyes SE Asia Expansion",
-          "summary": "DBS Group posted a net profit of SGD 3.1 billion in Q1 2026, up 18% year-on-year, citing strong wealth management flows and rising net interest margins across its ASEAN operations.",
-          "source": "Straits Times"
+          "headline": "Singapore Airlines Posts Record SGD 3.8B Annual Profit",
+          "summary": "Singapore Airlines reported its highest-ever annual net profit of SGD 3.8 billion for FY2025-26, up 14% year-on-year, driven by sustained premium leisure demand and a sharp recovery in cargo revenue across Asia-Pacific routes. Passenger load factors held above 88% through the year, with business class contributing a disproportionate share of yield improvement. The airline declared a special dividend of SGD 0.40 per share on top of a final ordinary dividend, returning over SGD 1.5 billion to shareholders. SIA also announced an accelerated fleet renewal programme adding 20 Airbus A350-900 aircraft focused on Europe and North America.",
+          "source": "Straits Times",
+          "url": "https://straitstimes.com"
         }
       ]
     },
     "innovations": {
       "articles": [
         {
-          "headline": "Boston Dynamics' Atlas Now Handles Unstructured Warehouse Tasks Autonomously",
-          "summary": "The latest Atlas firmware update enables the humanoid robot to navigate cluttered environments, pick irregular items, and collaborate with human workers without pre-programmed routes.",
-          "source": "IEEE Spectrum"
+          "headline": "Figure AI Scales to 500 Humanoid Robots Across Six BMW Plants",
+          "summary": "Figure AI has expanded its BMW manufacturing partnership to 500 Figure 02 humanoid robots spanning six plants across Germany and South Carolina, handling sub-assembly, parts inspection, and quality-check tasks alongside human workers. Each robot operates for 20-hour shifts with a 90-minute charging window, managed by a central fleet orchestration system. The deployment is the largest commercial humanoid rollout in automotive history, with Figure reporting 98.7% operational uptime over a three-month pilot phase. BMW projects the expansion will reduce per-unit assembly labour costs by 11% by end of 2026.",
+          "source": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org"
         },
         {
-          "headline": "Consumer Desktop Metal 3D Printer Achieves Sub-$1,000 Price Point",
-          "summary": "A new metal FDM printer from Desktop Metal's consumer division brings stainless steel and aluminium printing to home workshops, using a new sintering process that requires no kiln.",
-          "source": "Hackaday"
+          "headline": "Portable Solid-State Laser Achieves Surgical Precision Outside the OR",
+          "summary": "A Singapore medtech startup has developed a 2 kg handheld erbium-doped fibre laser capable of the tissue-cutting and cauterisation precision previously requiring operating-room infrastructure costing upwards of $500,000. The device operates on a rechargeable 48V battery, delivering pulses at 2,940 nm wavelength for clean incisions with minimal thermal damage to surrounding tissue. It received CE marking this week and will enter clinical trials across six ASEAN hospitals beginning in Q3 2026. If approved, it could enable minor surgical procedures in rural clinics and field settings across Southeast Asia.",
+          "source": "New Scientist",
+          "url": "https://newscientist.com"
         },
         {
-          "headline": "Smart Home Hub Integrates AI Vision to Cut Standby Energy Use by 40%",
-          "summary": "The new Matter 2.0-compatible hub uses an on-device vision model to detect room occupancy and automatically manage lighting, HVAC and plugged devices — without any cloud dependency.",
-          "source": "Ars Technica"
+          "headline": "Samsung Galaxy Watch 8 Gains FDA Clearance for Continuous AFib Detection",
+          "summary": "Samsung's Galaxy Watch 8 has won FDA clearance for around-the-clock atrial fibrillation detection using its upgraded BioActive sensor array, achieving 94% sensitivity and 97% specificity in a 3,200-patient clinical validation study -- the highest accuracy recorded for a consumer wearable. Unlike single-point ECG readings, the Watch 8 monitors continuously during sleep and rest, catching paroxysmal AFib episodes that spot checks miss. The capability is being pushed via an over-the-air firmware update to all existing Watch 8 units, reaching an estimated 12 million users globally at no additional cost. Samsung is simultaneously seeking European MDR approval, with a decision expected in Q4 2026.",
+          "source": "9to5Google",
+          "url": "https://9to5google.com"
         }
       ]
     },
     "trends": {
       "articles": [
         {
-          "headline": "Short-Form Video Commerce Surpasses $300B in Global Sales for 2026",
-          "summary": "TikTok Shop and Instagram Checkout collectively drove over $300 billion in direct-to-consumer sales in the first four months of 2026, reshaping retail strategy for brands of all sizes.",
-          "source": "Insider Intelligence"
+          "headline": "Substack Surpasses 50 Million Paid Subscribers in Newsletter Boom",
+          "summary": "Substack announced it has crossed 50 million paid subscriptions globally, with the sharpest growth in business, finance, and technology verticals over the past 12 months. The milestone reflects a structural audience shift away from algorithmic social feeds toward curated, expert-led newsletters that readers actively choose and pay for. Top writers on the platform now earn over $1 million annually from subscriptions alone, and Substack reports the median new paid publication breaks even within its first 90 days. The company is preparing a Series C raise at a reported $2.5 billion valuation to fund a podcast and video expansion.",
+          "source": "Axios",
+          "url": "https://axios.com"
         },
         {
-          "headline": "The 'Solo Founder' Wave: AI Tools Make One-Person Startups Viable at Scale",
-          "summary": "A new cohort of $1M+ ARR businesses founded and run entirely by a single person is growing rapidly, enabled by AI coding, marketing, and CRM tools that eliminate the need for early hires.",
-          "source": "Hacker News"
+          "headline": "Gen Z Founders Choose Revenue-Based Financing Over Venture Capital",
+          "summary": "A survey of 2,000 founders under 30 found that 61% prefer revenue-based financing over traditional VC deals, citing equity dilution and loss of operational independence as the primary deterrents to taking institutional money. Platforms such as Clearco and Pipe report 3x year-on-year growth in deal volume from first-time founders aged 18-26, with average deal sizes rising from $80K to $210K. The shift is also accelerating the rise of micro-PE roll-ups targeting profitable niche software businesses rather than high-growth moonshots. Analysts view the trend as a generational recalibration of what a successful business outcome looks like.",
+          "source": "Forbes",
+          "url": "https://forbes.com"
         },
         {
-          "headline": "B2B Brands Pivot to Creator-Led Marketing as Ad ROI Declines",
-          "summary": "Enterprise software companies including SAP, Salesforce, and HubSpot are shifting budget to LinkedIn and YouTube creators, citing 3–5× better cost-per-lead versus traditional display advertising.",
-          "source": "Marketing Week"
+          "headline": "X Deploys Grok-Powered AI Fact-Check Labels on Viral Posts",
+          "summary": "X has launched automated fact-check labels on posts exceeding 500,000 impressions, powered by its Grok-3 model cross-referenced against a licensed database of 40,000 news sources updated in near-real time. Labels appear inline beneath flagged posts with a one-sentence counter-summary and a source citation, distinct from Community Notes which remain user-generated. The rollout follows sustained pressure from EU regulators under the Digital Services Act, with X facing a 1.2 billion euro fine if it fails to demonstrate adequate misinformation controls by July 2026. Early accuracy testing by NewsGuard found the labels correct in 81% of cases, though political content is currently excluded.",
+          "source": "Reuters",
+          "url": "https://reuters.com"
         }
       ]
     },
     "saas": {
       "articles": [
         {
-          "headline": "Salesforce Agentforce 3.0 Lets Companies Deploy Autonomous Sales Agents in Hours",
-          "summary": "The latest Agentforce release includes pre-built templates for outbound SDR, renewal management, and customer success, with native CRM data grounding that eliminates hallucination risk.",
-          "source": "TechCrunch"
+          "headline": "HubSpot Breeze AI Autonomously Books Qualified Sales Meetings",
+          "summary": "HubSpot's Breeze platform now includes a fully autonomous outbound sales agent that researches prospects using LinkedIn and company databases, crafts personalised multi-touch email sequences, and books confirmed meetings directly into sales reps' calendars without human involvement at any step. The agent is trained on a company's CRM history to replicate the tone and objection-handling style of top performers, routing hot leads to human reps only at the discovery-call stage. Beta customers report a fourfold increase in top-of-funnel pipeline without additional headcount, cutting average time-to-book from eight days to 18 hours. Breeze AI is available from the HubSpot Sales Hub Professional tier at $90/seat/month.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com"
         },
         {
-          "headline": "AWS Launches 'Bedrock Autopilot' — Auto-Selects the Best Model Per Task",
-          "summary": "Amazon's new Bedrock feature dynamically routes prompts to the optimal foundation model based on task type, latency budget, and cost target — potentially cutting cloud AI bills by 35%.",
-          "source": "AWS Blog"
+          "headline": "Google Workspace AI Resolves Real-Time Collaborative Editing Conflicts",
+          "summary": "Google has embedded an AI conflict-resolution layer into Docs and Sheets that detects contradictory simultaneous edits and proposes a merged version in real time using intent inference. The feature tracks individual cursor activity and change intent, generating a proposed reconciliation that both editors can accept, reject, or further modify in a side-by-side view. Rolling out now to all Workspace Business and Enterprise tiers, it is projected to eliminate 12% of support tickets currently generated by multi-editor version conflicts. Google Sheets also gains a new AI formula assistant that explains existing formulas in plain language and suggests optimisations.",
+          "source": "9to5Google",
+          "url": "https://9to5google.com"
         },
         {
-          "headline": "SAP Integrates Joule AI Copilot Into All Core ERP Modules by Default",
-          "summary": "SAP's AI assistant Joule is now embedded across Finance, Supply Chain, and HR modules in S/4HANA Cloud, enabling natural-language queries, anomaly alerts, and auto-drafted journal entries.",
-          "source": "SAP News"
+          "headline": "Oracle NetSuite Adds AI Cash Flow Forecasting for SMBs",
+          "summary": "NetSuite's latest release introduces a predictive cash-flow module that draws on 24 months of historical transaction data and external economic indicators to produce 90-day liquidity forecasts with 88% accuracy in back-testing. The module flags potential shortfalls up to six weeks in advance and recommends specific AR collection actions or credit-line draw strategies to close the gap. Targeting businesses under $50 million in annual revenue, it is included at no additional cost across all SuiteSuccess subscription tiers. Oracle reports over 4,200 SMB customers have activated the feature in early access since March.",
+          "source": "ZDNet",
+          "url": "https://zdnet.com"
         }
       ]
     },
     "random_fact": {
-      "fact": "The world's first programmable electronic computer, ENIAC, weighed 27 tonnes, consumed 150 kilowatts of power, and could perform 5,000 additions per second. A modern smartphone chip executes over 15 billion operations per second — roughly 3 million times faster, in a package the size of a thumbnail.",
-      "category": "Technology History"
+      "fact": "Amazon was originally named 'Cadabra' by Jeff Bezos in 1994, but the name was dropped after his lawyer kept mishearing it as 'cadaver.' Bezos renamed the company after the Amazon River to signal his ambition to build the world's biggest bookstore, and to ensure the domain appeared near the top of alphabetically sorted web directories -- the primary way people discovered sites in the mid-1990s. Amazon's first day of sales on 16 July 1995 generated just $846; its market capitalisation surpassed $2 trillion in 2024, making it one of the fastest wealth-creation stories in corporate history.",
+      "category": "Business History"
     }
   }
 }
